@@ -3,4 +3,4 @@ Se determinara los conceptos basicos requeridos para el inicio de desarrollo en 
 
 | Tema | Descripcion 
 |------|-----------
-|[Bucles]("./Bucles") | En esta seccion se mostraran los condicionales 
+|[Bucles](Bucles) | En esta seccion se mostraran los condicionales 
