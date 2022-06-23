@@ -5,7 +5,7 @@ Es un tipo de datos de colección desordenado que es iterable, mutable y no tien
 
 ### _Operaciones_
 
-| __Operacion__ | __Escritura__
+| __Escritura__ | __Operacion__
 |-----------|-----------
 | A==B | Conjuntos equivalentes o iguales, retorna como resultado un booleano.
 | A palito B | Union de conjuntos, combina los elementos de los conjuntos, si se repite algun elemento solo se deja un solo valor.
