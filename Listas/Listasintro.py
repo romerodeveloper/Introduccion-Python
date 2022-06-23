@@ -43,7 +43,7 @@ print(array)
 array.reverse()
 print(array)
 
-#ordenar los metodos de forma ascendente
+#Ordenar los metodos de forma ascendente
 array4 = [1,3,2,8,5,10,-11]
 array4.sort()
 print(array4)

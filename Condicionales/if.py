@@ -1,7 +1,4 @@
-#Condicional if
-
-from traceback import print_tb
-
+#Condicional if, este condional determina un ejecucion en base a si cumple una sentencia
 
 dato = int(input("Ingrese un numero: "))
 

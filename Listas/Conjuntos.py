@@ -1,4 +1,4 @@
-#Conjuntos
+#Conjuntos, se determinan con los simbolos de llaves {}
 
 A={1,2,3,4} 
 B={2,3,5,6}

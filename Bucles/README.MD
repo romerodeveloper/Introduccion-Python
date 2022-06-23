@@ -8,7 +8,9 @@ Es un ciclo repetitivo basado en los resultados de una sentencia o condicion, el
 
 # Datos de interes
 Se importa la libreria math para operaciones especializadas. En el ejemplo propuesto se requiere de una raiz cuadrada, debido a que no hay un simbolo aritmetico que se pueda representar de forma textual, se utiliza esta funcion.
-``` PYTHON
+``` PY
 import math
+
+math.sqrt(numero)
 
 ```
