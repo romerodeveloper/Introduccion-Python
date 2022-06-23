@@ -14,6 +14,7 @@ grises = cv2.cvtColor(imagen,cv2.COLOR_BGR2GRAY)
 #Obtener la imagen como un umbral
 tipo_umbral,umbral = cv2.threshold(grises, 100, 255, cv2.THRESH_BINARY)
 
+#Obtener los contornos
 contorno, jerarquia = cv2.findContours(umbral, cv2.RETR_LIST, cv2.CHAIN_APPROX_SIMPLE)
 
 #Dibujar los contornos de la imagen, se ingresa la funcion que dibuja los contornos antes de mostrarla
